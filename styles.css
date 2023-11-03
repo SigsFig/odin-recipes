@@ -1,0 +1,24 @@
+.title {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.lasagna {
+    background-color: yellow;
+    color: red;
+}
+
+.friedrice {
+    background-color: orange;
+    color: red;
+}
+
+.muffins {
+    background-color: rgb(223, 173, 37);
+    color: rgb(41, 17, 126);
+}
+
+.proportioned {
+    height: 300px;
+    width: auto;
+}
