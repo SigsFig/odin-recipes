@@ -1,7 +1,12 @@
 .title {
     font-weight: bold;
     font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    margin: 6px 6px 6px 6px;
+    background: rgb(231, 190, 114);
 }
+
 
 .lasagna {
     background-color: yellow;
@@ -21,4 +26,20 @@
 .proportioned {
     height: 300px;
     width: auto;
+}
+
+.body {
+    background-color: rgb(54, 39, 22);
+}
+
+.recipes {
+    background-color: rgb(54, 39, 22);
+}
+
+.top-title {
+    margin-top: 8px;
+}
+
+.bottom-title {
+    margin-bottom: 8px;
 }
